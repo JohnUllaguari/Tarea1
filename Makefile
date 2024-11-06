@@ -4,7 +4,7 @@ CC = gcc
 CFLAGS = -Wall -g
 
 # Archivos objeto
-OBJ = main.o datos.o calculos.o
+OBJ = main.o datos.o calculos.o verifi.o
 
 # Ejecutable
 TARGET = programa_geometrico
